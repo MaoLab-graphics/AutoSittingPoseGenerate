@@ -1,12 +1,12 @@
 # AutoSittingPoseGenerate
-AutoSittingPoseGenerate is an open source project for the fit between humans’ anthropometric characteristics and the functionality of chairs. It is developed based on the VS2015.It is the original implementation of paper `Automatic Sitting Pose Generation for Ergonomic Ratings of Chairs`. <br>
+AutoSittingPoseGenerate is an open source project for the fit between humans’ anthropometric characteristics and the functionality of chairs. It is developed based on the VS2015.It is the original implementation of paper **Automatic Sitting Pose Generation for Ergonomic Ratings of Chairs**. <br>
 <br>
 We would like to hear from you if you appreciate this work.<br>
 <br>
 In our project, we provide 3 human models and 8 chair models for example and you can choose them for the experiment. In the RenderResult folder we provide the render result for each human model and chair model.The number of the human models and the chair models are as follows.<br>
 ![](img/HumanModel.png)
 ![](img/ChairModel.png)<br>
-To run the demo, you may install OpenMesh at first. If you want run the demo directly, you can run the `HumanSegmentation.exe` in the AutoSittingPoseGenerate\Sourcecode\ReshapeCode\Reshape\HumanSegmentation\x64\Release. <br>
+To run the demo, you may install OpenMesh at first. If you want run the demo directly, you can run the **HumanSegmentation.exe** in the AutoSittingPoseGenerate\Sourcecode\ReshapeCode\Reshape\HumanSegmentation\x64\Release. <br>
 <br>
 If you want use the other chair model, you may put the obj model in the folder called chairX(X is the number of the chair) and then put the folder into the ChairModel folder.<br>
 <br>
