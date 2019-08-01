@@ -6,13 +6,13 @@ We would like to hear from you if you appreciate this work.<br>
 In our project, we provide 3 human models and 8 chair models for example and you can choose them for the experiment. In the RenderResult folder we provide the render result for each human model and chair model.The number of the human models and the chair models are as follows.<br>
 ![](img/HumanModel.png)
 ![](img/ChairModel.png)<br>
-To run the demo, you may install OpenMesh at first. If you want run the demo directly, you can run the HumanSegmentation.exe in the AutoSittingPoseGenerate\Sourcecode\ReshapeCode\Reshape\HumanSegmentation\x64\Release. <br>
+To run the demo, you may install OpenMesh at first. If you want run the demo directly, you can run the `HumanSegmentation.exe` in the AutoSittingPoseGenerate\Sourcecode\ReshapeCode\Reshape\HumanSegmentation\x64\Release. <br>
 <br>
 If you want use the other chair model, you may put the obj model in the folder called chairX(X is the number of the chair) and then put the folder into the ChairModel folder.<br>
 <br>
 If you want use the other human model, it may a little bit complex. You’d better use it as follow:<br>
 <br>
-(1)	Convert your human model format to ‘.off’ and then put the model into the \Sourcecode\auto_rigging\Pinocchio-master \x64\Release and run the Pinocchio.exe. Then you need change the name to the skedata_pX.bin(X is the number of the human model).<br>
+(1)	Convert your human model format to ‘.off’ and then put the model into the \Sourcecode \auto_rigging \Pinocchio-master \x64 \Release and run the Pinocchio.exe. Then you need change the name to the skedata_pX.bin(X is the number of the human model).<br>
 <br>
 (2)	Open the OFF2HKS.m in MATLAB and change the address of the human model. Then input the command OFF2KS(‘name.ply’) in the command window. You need also change the output document name to hks_pX.txt.<br>
 <br>
