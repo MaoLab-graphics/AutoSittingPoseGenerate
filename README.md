@@ -4,4 +4,5 @@ AutoSittingPoseGenerate is an open source project for the fit between humans’ 
 We would like to hear from you if you appreciate this work.<br>
 <br>
 To run the demo, you may install OpenMesh at first. In our project, we provide 3 human models and 8 chair models for example and you can choose them for the experiment. The number of the human models and the chair models are as follows.<br>
-![](img/7.png)
+![](img/HumanModel.png)
+![](img/ChairModel.png)
