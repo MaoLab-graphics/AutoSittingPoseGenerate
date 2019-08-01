@@ -14,11 +14,12 @@ If you want use the other human model, it may a little bit complex. You’d bett
 <br>
 (1)	Convert your human model format to ‘.off’ and then put the model into the \Sourcecode \auto_rigging \Pinocchio-master \x64 \Release and run the Pinocchio.exe. Then you need change the name to the skedata_pX.bin(X is the number of the human model).<br>
 <br>
-(2)	Open the OFF2HKS.m in MATLAB and change the address of the human model. Then input the command OFF2KS(‘name.ply’) in the command window. You need also change the output document name to hks_pX.txt.<br>
+(2)	Open the OFF2HKS.m in MATLAB and change the address of the human model. Then input the command OFF2KS (‘name.ply’) in the command window. You need also change the output document name to hks_pX.txt.<br>
 <br>
 (3)	Open the curvature.m in MATLAB and change the input document address. Then you may change the output document name to curvature_pX.txt. <br>
 <br>
 (4)	After the steps above you may put the human model into the HumanModel folder and put skedata_pX.bin, hks_pX.txt and curvature_pX.txt into \Sourcecode\ReshapeCode\Reshape\HumanSegmentation\x64\Release.<br>
+<br>
 (5)	After build the solution, you can run the HumanSegmentation.exe and choose the model you want. <br>
 <br>
 Please contact the author for questions and bug report, or consulting for the usage of this code base.
