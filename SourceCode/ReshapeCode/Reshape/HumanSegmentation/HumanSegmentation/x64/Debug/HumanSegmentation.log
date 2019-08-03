@@ -1,0 +1,64 @@
+﻿Build started 2018/3/4 11:25:57.
+     1>Project "D:\Project\HumanSegmentation\HumanSegmentation\HumanSegmentation.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Software\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Id:\Software\OpenMesh_6_3\include /Zi /nologo /W3 /WX- /sdl /Od /D _USE_MATH_DEFINES /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt Segmentation.cpp
+         Segmentation.cpp
+     1>d:\project\humansegmentation\humansegmentation\Mesh.h(92): warning C4309: 'initializing' : truncation of constant value
+     1>d:\project\humansegmentation\humansegmentation\MassSpringSystem.h(80): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>d:\project\humansegmentation\humansegmentation\MassSpringSystem.h(162): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(494): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(495): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(617): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Segmentation.cpp(618): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Segmentation.cpp(780): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Segmentation.cpp(781): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Segmentation.cpp(1175): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(1187): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(1854): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(2132): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'float', possible loss of data
+     1>Segmentation.cpp(2797): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(3132): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Segmentation.cpp(3253): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>Segmentation.cpp(3296): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Segmentation.cpp(3310): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>Segmentation.cpp(4074): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(4082): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Segmentation.cpp(4634): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'float', possible loss of data
+     1>Segmentation.cpp(4679): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>Segmentation.cpp(4709): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Segmentation.cpp(5070): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Segmentation.cpp(5093): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>Segmentation.cpp(5094): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>Segmentation.cpp(5095): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>Segmentation.cpp(5120): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Segmentation.cpp(5144): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>Segmentation.cpp(5145): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>Segmentation.cpp(5146): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>Segmentation.cpp(5181): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(5189): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(5214): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Segmentation.cpp(5215): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Segmentation.cpp(5216): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Segmentation.cpp(5217): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Segmentation.cpp(5218): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Segmentation.cpp(5258): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(5290): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(5456): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(5458): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(5489): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(5490): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(5579): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'float', possible loss of data
+       Link:
+         D:\Software\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Project\HumanSegmentation\x64\Debug\HumanSegmentation.exe" /INCREMENTAL /NOLOGO /LIBPATH:.\GL\ /LIBPATH:d:\Software\OpenMesh_6_3\lib OpenMeshCored.lib OpenMeshToolsd.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Project\HumanSegmentation\x64\Debug\HumanSegmentation.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Project\HumanSegmentation\x64\Debug\HumanSegmentation.lib" /MACHINE:X64 x64\Debug\Main.obj
+         x64\Debug\Mesh.obj
+         x64\Debug\SDF.obj
+         x64\Debug\Segmentation.obj
+         x64\Debug\Skeletonization.obj
+         x64\Debug\Viewer.obj
+         x64\Debug\Voxel.obj
+         HumanSegmentation.vcxproj -> D:\Project\HumanSegmentation\x64\Debug\HumanSegmentation.exe
+     1>Done Building Project "D:\Project\HumanSegmentation\HumanSegmentation\HumanSegmentation.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.91

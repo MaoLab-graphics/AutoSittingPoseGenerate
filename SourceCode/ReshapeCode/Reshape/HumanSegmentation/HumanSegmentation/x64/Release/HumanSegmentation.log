@@ -1,0 +1,82 @@
+﻿Build started 2019/8/1 14:08:58.
+     1>Project "C:\Users\xzf\Desktop\Code\Sourcecode\ReshapeCode\Reshape\HumanSegmentation\HumanSegmentation\HumanSegmentation.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Software\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Id:\Software\OpenMesh_6_3\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _USE_MATH_DEFINES /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt Functions.cpp Main.cpp Mesh.cpp Reshape.cpp SDF.cpp Segmentation.cpp Skeletonization.cpp Viewer.cpp Voxel.cpp
+         Functions.cpp
+     1>Functions.cpp(99): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+         Main.cpp
+         Mesh.cpp
+     1>Mesh.cpp(282): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+         Reshape.cpp
+     1>c:\users\xzf\desktop\code\sourcecode\reshapecode\reshape\humansegmentation\humansegmentation\MassSpringSystem.h(81): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\xzf\desktop\code\sourcecode\reshapecode\reshape\humansegmentation\humansegmentation\MassSpringSystem.h(165): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>c:\users\xzf\desktop\code\sourcecode\reshapecode\reshape\humansegmentation\humansegmentation\MassSpringSystem.h(279): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\xzf\desktop\code\sourcecode\reshapecode\reshape\humansegmentation\humansegmentation\DeformSolver.h(144): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>Reshape.cpp(84): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Reshape.cpp(85): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Reshape.cpp(86): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Reshape.cpp(168): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'float', possible loss of data
+     1>Reshape.cpp(216): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>Reshape.cpp(246): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>Reshape.cpp(711): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Reshape.cpp(712): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>Reshape.cpp(776): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Reshape.cpp(803): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>Reshape.cpp(805): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>Reshape.cpp(851): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Reshape.cpp(878): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>Reshape.cpp(880): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>Reshape.cpp(928): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Reshape.cpp(955): warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+     1>Reshape.cpp(982): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Reshape.cpp(983): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Reshape.cpp(984): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Reshape.cpp(985): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Reshape.cpp(986): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>Reshape.cpp(1047): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Reshape.cpp(1079): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Reshape.cpp(1247): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Reshape.cpp(1249): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Reshape.cpp(1280): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Reshape.cpp(1281): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Reshape.cpp(1370): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'float', possible loss of data
+         SDF.cpp
+         Segmentation.cpp
+     1>Segmentation.cpp(386): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(387): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(887): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(899): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(1094): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(1154): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(1826): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(2106): warning C4244: 'argument' : conversion from 'unsigned __int64' to 'float', possible loss of data
+     1>Segmentation.cpp(2810): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(3162): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Segmentation.cpp(3313): warning C4390: ';' : empty controlled statement found; is this the intent?
+     1>Segmentation.cpp(3349): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>Segmentation.cpp(4149): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Segmentation.cpp(4157): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+         Skeletonization.cpp
+         Viewer.cpp
+     1>Viewer.cpp(221): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Viewer.cpp(222): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+     1>Viewer.cpp(246): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+         Voxel.cpp
+       Link:
+         D:\Software\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\xzf\Desktop\Code\Sourcecode\ReshapeCode\Reshape\HumanSegmentation\x64\Release\HumanSegmentation.exe" /NOLOGO /LIBPATH:.\GL\ /LIBPATH:d:\Software\OpenMesh_6_3\lib OpenMeshCore.lib OpenMeshTools.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\xzf\Desktop\Code\Sourcecode\ReshapeCode\Reshape\HumanSegmentation\x64\Release\HumanSegmentation.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\xzf\Desktop\Code\Sourcecode\ReshapeCode\Reshape\HumanSegmentation\x64\Release\HumanSegmentation.lib" /MACHINE:X64 x64\Release\Functions.obj
+         x64\Release\Main.obj
+         x64\Release\Mesh.obj
+         x64\Release\Reshape.obj
+         x64\Release\SDF.obj
+         x64\Release\Segmentation.obj
+         x64\Release\Skeletonization.obj
+         x64\Release\Viewer.obj
+         x64\Release\Voxel.obj
+         Generating code
+         Finished generating code
+         HumanSegmentation.vcxproj -> C:\Users\xzf\Desktop\Code\Sourcecode\ReshapeCode\Reshape\HumanSegmentation\x64\Release\HumanSegmentation.exe
+     1>Done Building Project "C:\Users\xzf\Desktop\Code\Sourcecode\ReshapeCode\Reshape\HumanSegmentation\HumanSegmentation\HumanSegmentation.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:19.67
